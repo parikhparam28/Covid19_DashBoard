@@ -44,17 +44,5 @@
   },
   "devDependencies": {
     "css-loader": "^6.7.1"
-  },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/parikhparam28/Covid19_DashBoard.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/parikhparam28/Covid19_DashBoard/issues"
-  },
-  "homepage": "https://github.com/parikhparam28/Covid19_DashBoard#readme"
+  }
 }
